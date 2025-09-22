@@ -1,2 +1,2 @@
 # Fragments_Of_Dawn
-My 3D psychological horror game for college
+Vertical slice of 3D psychological horror game for college project
